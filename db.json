@@ -1,0 +1,20 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "username": "sngoyi5@gmail.com",
+      "password": "123"
+    }
+  ],
+  "books": [
+    {
+      "title": "L'HISTOIRE DES SCIENCES APPLIQUÉES EN RDC",
+      "description": "",
+      "rating": 3,
+      "resume": "The best kept secret of The Bahamas is the country’s sheer size and diversity. With 16 major islands, The Bahamas is an unmatched destination The best kept secret of The Bahamas is the country’s sheer size and diversity. With 16 major islands, The Bahamas is an unmatched destination The best kept secret of The Bahamas is the country’s sheer size and diversity. With 16 major islands, The Bahamas is an unmatched destination
+      The best kept secret of The Bahamas is the country’s sheer size and diversity. With 16 major islands, The Bahamas is an unmatched destination",
+      "categoryId": 1,
+      "isPopulaire": true
+    }
+  ]
+}
